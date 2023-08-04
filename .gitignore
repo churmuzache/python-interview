@@ -1,0 +1,15 @@
+*/*.pyc
+*/*/*.pyc
+*/*/*/*.pyc
+*.ipynb
+*/*/*/__pycache__
+env
+venv
+.idea
+dist/
+build/
+tmp/
+tests/models/model_output
+*.egg-info/
+.DS_Store
+node_modules
